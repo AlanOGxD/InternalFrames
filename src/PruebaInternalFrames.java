@@ -199,6 +199,7 @@ class VentanaInicio extends JFrame implements ActionListener{
 		add(menu);
 		pack();
 		
+		
 	}//Constructor
 	@Override
 	public void actionPerformed(ActionEvent arg0) {
